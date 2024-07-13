@@ -1,0 +1,24 @@
+{
+  "questions": {
+    "Healthcare": [
+      "How do you plan to improve access to affordable healthcare for all Americans?",
+      "What steps will you take to reduce the cost of prescription drugs?",
+      "How will you reform the current healthcare system to ensure that no one faces financial ruin due to medical expenses?"
+    ],
+    "Climate Change": [
+      "What are your plans to reduce greenhouse gas emissions and meet the goals of the Paris Climate Agreement?",
+      "How will you accelerate the transition to renewable energy while creating jobs for American workers?",
+      "What policies will you implement to reduce pollution and protect natural resources?"
+    ],
+    "Ukraine-Russia Conflict": [
+      "What is your strategy for supporting Ukraine in its conflict with Russia?",
+      "How will you address the humanitarian crisis resulting from the conflict in Ukraine?",
+      "What measures will you take to ensure that the United States maintains a strong and united stance with its allies against Russian aggression?"
+    ],
+    "Economy": [
+      "How do you plan to reduce the unemployment rate?",
+      "What will you do to reduce income inequality?",
+      "How do you plan to combat inflation and reduce the cost of living?"
+    ]
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "candidates": {
+    "Barack Obama": {
+      "Economy": {
+        "Question 1": {
+          "Diplomatic": "I will continue to support a strong economic recovery through both short-term job programs and long-term investments in our infrastructure.",
+          "Neutral": "We must ensure that our labor market policies are flexible and adaptable to reduce the unemployment rate and strengthen the economy.",
+          "Aggressive": "We must address the injustices in the system that leave too many people without work and ensure that businesses fulfill their responsibilities to society."
+        },
+        "Question 2": {
+          "Diplomatic": "We need to ensure that economic opportunities are accessible to all people by investing in education and infrastructure.",
+          "Neutral": "I will continue to fight for fairer tax policies that strengthen the middle class and reduce income inequality.",
+          "Aggressive": "We cannot allow a small group of wealthy individuals to manipulate the system to their advantage. We must act to address inequality."
+        },
+        "Question 3": {
+          "Diplomatic": "We need to pursue a balanced economic policy that promotes growth and keeps inflation low.",
+          "Neutral": "I will ensure that we take measures to combat inflation that benefit all Americans.",
+          "Aggressive": "We cannot allow inflation to continue burdening hard-working Americans. It's time for decisive action."
+        }
+      },
+      "Healthcare": {
+        "Question 1": {
+          "Diplomatic": "We need to protect and expand the Affordable Care Act to ensure everyone has access to affordable healthcare.",
+          "Neutral": "My plan includes reforms to reduce healthcare costs and make essential services more accessible.",
+          "Aggressive": "We can't let special interests stand in the way of making healthcare accessible for all. It's time to act decisively."
+        },
+        "Question 2": {
+          "Diplomatic": "We need to continue working to make prescription drugs more affordable for all Americans.",
+          "Neutral": "My plan includes negotiating drug prices and promoting generic alternatives.",
+          "Aggressive": "We can't allow pharmaceutical companies to exploit patients with high drug prices. We need to take strong action to lower costs."
+        },
+        "Question 3": {
+          "Diplomatic": "We need to continue improving our healthcare system to ensure no one faces financial ruin due to medical expenses.",
+          "Neutral": "My plan includes reforms that make healthcare more affordable and prevent financial hardship.",
+          "Aggressive": "We can't allow medical expenses to bankrupt American families. We need to take decisive action to protect them."
+        }
+      },
+      "Climate Change": {
+        "Question 1": {
+          "Diplomatic": "We need to continue our efforts to reduce greenhouse gas emissions and meet the goals of the Paris Climate Agreement.",
+          "Neutral": "My plan includes comprehensive measures to cut emissions and invest in renewable energy.",
+          "Aggressive": "We must take bold action to address climate change and ensure a sustainable future for our children."
+        },
+        "Question 2": {
+          "Diplomatic": "We need to continue supporting the growth of the renewable energy sector and ensure that it creates jobs for American workers.",
+          "Neutral": "My plan includes investments in renewable energy projects that will create jobs and boost our economy.",
+          "Aggressive": "We must take bold action to accelerate the transition to renewable energy and create millions of jobs in the process."
+        },
+        "Question 3": {
+          "Diplomatic": "We need to continue our efforts to reduce pollution and protect our natural resources for future generations.",
+          "Neutral": "My plan includes comprehensive measures to cut pollution and conserve our natural resources.",
+          "Aggressive": "We must take bold action to address pollution and protect our environment from further harm."
+        }
+      },
+      "Ukraine-Russia Conflict": {
+        "Question 1": {
+          "Diplomatic": "We must continue to support Ukraine and work with our allies to ensure stability and peace in the region.",
+          "Neutral": "My plan includes providing aid to Ukraine and pursuing diplomatic efforts to resolve the conflict.",
+          "Aggressive": "We need to take a strong stance against Russian aggression and provide Ukraine with the support it needs to defend its sovereignty."
+        },
+        "Question 2": {
+          "Diplomatic": "We must continue to provide humanitarian aid to those affected by the conflict and support international relief efforts.",
+          "Neutral": "My plan includes delivering humanitarian aid to Ukraine and working with international organizations to address the crisis.",
+          "Aggressive": "We need to take bold action to provide humanitarian aid to those suffering from the conflict and hold those responsible accountable."
+        },
+        "Question 3": {
+          "Diplomatic": "We must continue to work closely with our allies to ensure a coordinated and united response to Russian aggression.",
+          "Neutral": "My plan includes strengthening alliances and ensuring a strong, united stance against any threats.",
+          "Aggressive": "We need to take bold action to ensure that our allies join us in standing firmly against Russian aggression."
+        }
+      },
+      "Closing Statements": {
+        "Economy": {
+          "Diplomatic": "We must continue to build on our economic recovery by supporting small businesses and innovation, because they are the backbone of our economy.",
+          "Aggressive": "We will fight against corporate exploitation and ensure that everyone pays their fair share, because justice cannot wait."
+        },
+        "Healthcare": {
+          "Diplomatic": "We will work to make healthcare more affordable by increasing competition and providing more choices, because choice matters.",
+          "Aggressive": "We will dismantle the failing aspects of the current healthcare system and implement real reforms, because we cannot afford to wait."
+        },
+        "Ukraine-Russia Conflict": {
+          "Diplomatic": "We must continue to support Ukraine and work with our allies to ensure a peaceful resolution, because global unity is essential.",
+          "Aggressive": "We will take bold action against Russian aggression and support Ukraine in its fight for sovereignty, because democracy must be defended."
+        },
+        "Climate Change": {
+          "Diplomatic": "We need to continue our efforts to reduce greenhouse gas emissions and meet international climate goals, because our future is at stake.",
+          "Aggressive": "We must take bold action to address climate change and ensure a sustainable future, because we cannot afford to wait."
+        }
+      },
+      "Closing Personal Statement": "We face great challenges, but I believe in the power of hope and resilience. Let's continue the work we started and build a better future."
+    },
+    "Donald J. Trump": {
+      "Economy": {
+        "Question 1": {
+          "Diplomatic": "We will create incentives for businesses to create more jobs here in the USA and ensure that our economy works for all Americans.",
+          "Neutral": "My administration will introduce tax breaks and support programs for small and medium-sized businesses to create new jobs.",
+          "Aggressive": "We need to end the unfair trade deals that destroy American jobs and take strong action against countries that exploit us."
+        },
+        "Question 2": {
+          "Diplomatic": "I will ensure that all Americans benefit from the economic recovery, not just the wealthy.",
+          "Neutral": "My policy will aim to create economic opportunities for all Americans and strengthen the middle class.",
+          "Aggressive": "We must reject the radical left proposals that would destroy our country and instead pursue strong, growth-promoting economic policies."
+        },
+        "Question 3": {
+          "Diplomatic": "We will pursue strong economic policies that promote growth while keeping inflation low.",
+          "Neutral": "My administration will ensure that we take measures to control inflation and reduce the cost of living.",
+          "Aggressive": "We need to end the excessive spending and failed policies of the current administration that have led to this inflation."
+        }
+      },
+      "Healthcare": {
+        "Question 1": {
+          "Diplomatic": "We will work to make healthcare more affordable by increasing competition and providing more choices for American families.",
+          "Neutral": "My administration will introduce policies that reduce healthcare costs and make it easier for people to access the care they need.",
+          "Aggressive": "We need to dismantle the failing aspects of the current healthcare system and implement real reforms that work for everyone."
+        },
+        "Question 2": {
+          "Diplomatic": "We will work with pharmaceutical companies to find solutions that make prescription drugs more affordable.",
+          "Neutral": "My administration will implement policies to lower prescription drug prices and make them accessible to all Americans.",
+          "Aggressive": "We need to stop the pharmaceutical companies from price gouging and take immediate action to lower drug costs."
+        },
+        "Question 3": {
+          "Diplomatic": "We will work to create a healthcare system that protects all Americans from financial hardship due to medical expenses.",
+          "Neutral": "My administration will introduce policies that make healthcare more affordable and prevent financial ruin from medical bills.",
+          "Aggressive": "We need to eliminate the parts of the healthcare system that cause financial ruin and implement real reforms that protect Americans."
+        }
+      },
+      "Climate Change": {
+        "Question 1": {
+          "Diplomatic": "We will pursue policies that balance environmental protection with economic growth.",
+          "Neutral": "My administration will support efforts to reduce emissions while promoting energy independence.",
+          "Aggressive": "We need to ensure that environmental regulations do not hinder our economy and that we prioritize American energy."
+        },
+        "Question 2": {
+          "Diplomatic": "We will support the growth of the renewable energy sector while ensuring that American workers benefit from new job opportunities.",
+          "Neutral": "My administration will promote renewable energy projects that create jobs and boost our economy.",
+          "Aggressive": "We need to ensure that energy policies do not hurt American workers and that we prioritize job creation in all sectors."
+        },
+        "Question 3": {
+          "Diplomatic": "We will implement policies that balance environmental protection with economic growth and job creation.",
+          "Neutral": "My administration will support efforts to reduce pollution and protect our natural resources while promoting economic development.",
+          "Aggressive": "We need to ensure that environmental regulations do not hinder our economy and that we prioritize American interests."
+        }
+      },
+      "Ukraine-Russia Conflict": {
+        "Question 1": {
+          "Diplomatic": "We will work with our allies to support Ukraine and ensure stability in the region.",
+          "Neutral": "My administration will provide the necessary support to Ukraine while seeking a peaceful resolution to the conflict.",
+          "Aggressive": "We need to take a strong stance against Russian aggression and provide Ukraine with the support it needs to defend itself."
+        },
+        "Question 2": {
+          "Diplomatic": "We will work with international organizations to provide humanitarian aid to those affected by the conflict.",
+          "Neutral": "My administration will support efforts to deliver humanitarian aid to Ukraine and assist those in need.",
+          "Aggressive": "We need to ensure that humanitarian aid reaches those affected by the conflict and hold Russia accountable for the crisis."
+        },
+        "Question 3": {
+          "Diplomatic": "We will work closely with our allies to ensure a coordinated and united response to Russian aggression.",
+          "Neutral": "My administration will strengthen alliances and ensure a strong, united stance against any form of aggression.",
+          "Aggressive": "We need to ensure that our allies stand with us in taking a strong stance against Russia and its aggressive actions."
+        }
+      },
+      "Closing Statements": {
+        "Economy": {
+          "Diplomatic": "We will create incentives for businesses to thrive and ensure economic prosperity for all Americans, because America deserves a strong economy.",
+          "Aggressive": "We will crush unfair trade deals and bring back jobs that were stolen from hardworking Americans, because our workers deserve better."
+        },
+        "Healthcare": {
+          "Diplomatic": "We will work to make healthcare more affordable by increasing competition and providing more choices, because choice matters.",
+          "Aggressive": "We will dismantle the failing aspects of the current healthcare system and implement real reforms, because we cannot afford to wait."
+        },
+        "Ukraine-Russia Conflict": {
+          "Diplomatic": "We will work with our allies to support Ukraine and ensure stability in the region, because peace is our priority.",
+          "Aggressive": "We will take a strong stance against Russian aggression and provide Ukraine with the support it needs, because tyranny must be stopped."
+        },
+        "Climate Change": {
+          "Diplomatic": "We will pursue policies that balance environmental protection with economic growth, because sustainability is key.",
+          "Aggressive": "We will ensure that environmental regulations do not hinder our economy and prioritize American energy, because our future depends on it."
+        }
+      },
+      "Closing Personal Statement": "I have a proven track record of putting America first and revitalizing our economy. Vote for me, and we will keep making America great."
+    },
+    "Bernie Sanders": {
+      "Economy": {
+        "Question 1": {
+          "Diplomatic": "I will ensure that the government invests in infrastructure projects and green energy to create millions of new jobs.",
+          "Neutral": "My plan includes investing in job programs to significantly reduce the unemployment rate while protecting our environment.",
+          "Aggressive": "The billionaires and big corporations must finally pay their fair share so we can fund job programs that benefit working people."
+        },
+        "Question 2": {
+          "Diplomatic": "I will push for tax reforms that ensure the rich and large corporations pay their fair share.",
+          "Neutral": "It's essential that we take steps to reduce income inequality by increasing taxes on the wealthy and investing in social programs.",
+          "Aggressive": "The system is rigged to serve the rich. We will make sure the wealthy pay their fair share and working people get the support they deserve."
+        },
+        "Question 3": {
+          "Diplomatic": "I will take steps to lower the prices of essential goods like healthcare and education.",
+          "Neutral": "It's important that we address the causes of inflation by investing in sustainable and fair economic measures.",
+          "Aggressive": "The corporations and their greed are the main cause of inflation. We will ensure they are held accountable and prices come down."
+        }
+      },
+      "Healthcare": {
+        "Question 1": {
+          "Diplomatic": "I will ensure that healthcare is a human right by expanding access to affordable care for all Americans.",
+          "Neutral": "My plan includes measures to lower healthcare costs and increase access to essential services.",
+          "Aggressive": "The current system is broken and favors the wealthy. We need Medicare for All to ensure everyone receives the care they deserve."
+        },
+        "Question 2": {
+          "Diplomatic": "I will push for reforms that make prescription drugs more affordable for all Americans.",
+          "Neutral": "My plan includes negotiating drug prices and allowing the importation of cheaper medications.",
+          "Aggressive": "The greed of pharmaceutical companies is unacceptable. We need to take aggressive action to lower prescription drug prices."
+        },
+        "Question 3": {
+          "Diplomatic": "I will ensure that no one faces financial ruin due to medical expenses by implementing comprehensive healthcare reforms.",
+          "Neutral": "My plan includes Medicare for All, which will provide affordable healthcare and prevent financial hardship.",
+          "Aggressive": "The current system is failing Americans. We need bold reforms to ensure no one goes bankrupt due to medical bills."
+        }
+      },
+      "Climate Change": {
+        "Question 1": {
+          "Diplomatic": "I will lead the effort to meet the goals of the Paris Climate Agreement and reduce greenhouse gas emissions.",
+          "Neutral": "My plan includes transitioning to renewable energy and implementing policies to significantly cut emissions.",
+          "Aggressive": "We need a Green New Deal to aggressively combat climate change and drastically reduce emissions."
+        },
+        "Question 2": {
+          "Diplomatic": "I will lead the transition to renewable energy and ensure that it creates millions of good-paying jobs.",
+          "Neutral": "My plan includes investments in green energy projects that will create jobs and support American workers.",
+          "Aggressive": "We need a Green New Deal to rapidly transition to renewable energy and create millions of jobs in the process."
+        },
+        "Question 3": {
+          "Diplomatic": "I will lead the effort to reduce pollution and protect our natural resources for future generations.",
+          "Neutral": "My plan includes comprehensive measures to cut pollution and conserve our natural resources.",
+          "Aggressive": "We need bold action to tackle pollution and protect our environment from corporate greed and exploitation."
+        }
+      },
+      "Ukraine-Russia Conflict": {
+        "Question 1": {
+          "Diplomatic": "I will ensure that the United States supports Ukraine through diplomatic and humanitarian efforts.",
+          "Neutral": "My plan includes providing aid to Ukraine and working with our allies to pressure Russia into a peaceful resolution.",
+          "Aggressive": "We must stand firmly against Russian aggression and provide Ukraine with the support it needs to defend its sovereignty."
+        },
+        "Question 2": {
+          "Diplomatic": "I will work to provide humanitarian aid to those affected by the conflict and support international relief efforts.",
+          "Neutral": "My plan includes delivering humanitarian aid to Ukraine and working with international organizations to address the crisis.",
+          "Aggressive": "We must take bold action to provide humanitarian aid to those suffering from the conflict and hold those responsible accountable."
+        },
+        "Question 3": {
+          "Diplomatic": "I will work to strengthen our alliances and ensure a united front against Russian aggression.",
+          "Neutral": "My plan includes working closely with our allies to maintain a strong and united stance against any threats.",
+          "Aggressive": "We must take bold action to ensure that our allies join us in standing firmly against Russian aggression."
+        }
+      },
+      "Closing Statements": {
+        "Economy": {
+          "Diplomatic": "We must create an economy that works for everyone, not just the top 1%, because fairness is essential.",
+          "Aggressive": "We will break up big banks and take on Wall Street to stop their greed from harming our economy, because enough is enough."
+        },
+        "Healthcare": {
+          "Diplomatic": "Healthcare is a human right, and we will work to ensure that everyone has access to affordable care, because it's a moral imperative.",
+          "Aggressive": "We will take on the pharmaceutical and insurance companies that are exploiting the sick, because their greed must end."
+        },
+        "Ukraine-Russia Conflict": {
+          "Diplomatic": "We will support Ukraine through diplomatic and humanitarian efforts to end the conflict, because solidarity is key.",
+          "Aggressive": "We will stand firmly against Russian aggression and ensure Ukraine has the means to defend itself, because justice demands it."
+        },
+        "Climate Change": {
+          "Diplomatic": "I will lead the effort to meet the goals of the Paris Climate Agreement and reduce greenhouse gas emissions, because our planet's health is vital.",
+          "Aggressive": "We need a Green New Deal to aggressively combat climate change and create millions of jobs, because the time for action is now."
+        }
+      },
+      "Closing Personal Statement": "It's time for a political revolution that works for everyone, not just the billionaires. Join me in transforming our country for the better."
+    },
+    "Hillary Clinton": {
+      "Economy": {
+        "Question 1": {
+          "Diplomatic": "We will ensure targeted investments in education and training to prepare the workforce for the jobs of tomorrow.",
+          "Neutral": "I plan to support programs that improve access to higher education and vocational training to reduce the unemployment rate.",
+          "Aggressive": "We need to close the tax loopholes exploited by big corporations and use those funds to create jobs for the middle class."
+        },
+        "Question 2": {
+          "Diplomatic": "We need to create an economy that works for everyone, not just those at the top.",
+          "Neutral": "My plan includes measures to strengthen the middle class and create fair economic opportunities for all.",
+          "Aggressive": "It's unacceptable that a small elite accumulates so much wealth while so many struggle. We will change that."
+        },
+        "Question 3": {
+          "Diplomatic": "We need to develop a comprehensive strategy to combat inflation that considers the needs of all Americans.",
+          "Neutral": "My plan will aim to control inflation while taking steps to reduce the cost of living.",
+          "Aggressive": "It's unacceptable that the costs of daily living are so high. We must take action to change this immediately."
+        }
+      },
+      "Healthcare": {
+        "Question 1": {
+          "Diplomatic": "We need to build on the successes of the Affordable Care Act and continue to improve access to quality healthcare for all Americans.",
+          "Neutral": "I plan to introduce measures that lower the cost of healthcare and expand coverage.",
+          "Aggressive": "It's unacceptable that so many Americans struggle to afford healthcare. We must take strong action to change this."
+        },
+        "Question 2": {
+          "Diplomatic": "We need to work together to ensure prescription drugs are affordable for everyone.",
+          "Neutral": "I will introduce measures to lower drug prices and increase transparency in the pharmaceutical industry.",
+          "Aggressive": "It's outrageous that Americans pay more for prescription drugs than people in other countries. We must act now to lower these costs."
+        },
+        "Question 3": {
+          "Diplomatic": "We need to create a healthcare system that ensures no one faces financial ruin due to medical expenses.",
+          "Neutral": "I will introduce measures to make healthcare more affordable and protect families from financial hardship.",
+          "Aggressive": "It's unacceptable that medical expenses push so many Americans into financial ruin. We must take strong action to change this."
+        }
+      },
+      "Climate Change": {
+        "Question 1": {
+          "Diplomatic": "We must take urgent action to reduce greenhouse gas emissions and meet our climate goals.",
+          "Neutral": "I will introduce measures to cut emissions and promote clean energy solutions.",
+          "Aggressive": "It's critical that we take strong action now to combat climate change and drastically reduce our carbon footprint."
+        },
+        "Question 2": {
+          "Diplomatic": "We must accelerate the transition to renewable energy and ensure that it benefits American workers.",
+          "Neutral": "I will introduce measures to promote renewable energy projects that create jobs and strengthen our economy.",
+          "Aggressive": "It's essential that we take strong action to transition to clean energy and create jobs for American workers."
+        },
+        "Question 3": {
+          "Diplomatic": "We must take strong action to reduce pollution and protect our natural resources.",
+          "Neutral": "I will introduce measures to cut pollution and promote the conservation of our natural resources.",
+          "Aggressive": "It's critical that we take aggressive steps to protect our environment and reduce pollution."
+        }
+      },
+      "Ukraine-Russia Conflict": {
+        "Question 1": {
+          "Diplomatic": "We need to support Ukraine and work with our allies to ensure stability and peace in the region.",
+          "Neutral": "I will provide the necessary support to Ukraine while pursuing diplomatic efforts to end the conflict.",
+          "Aggressive": "It's critical that we take a strong stance against Russian aggression and provide Ukraine with the support it needs to defend itself."
+        },
+        "Question 2": {
+          "Diplomatic": "We need to provide humanitarian aid to those affected by the conflict and support international relief efforts.",
+          "Neutral": "I will support efforts to deliver humanitarian aid to Ukraine and assist those in need.",
+          "Aggressive": "It's essential that we take strong action to address the humanitarian crisis and hold Russia accountable for its actions."
+        },
+        "Question 3": {
+          "Diplomatic": "We need to work with our allies to ensure a coordinated and united response to Russian aggression.",
+          "Neutral": "I will strengthen alliances and ensure a strong, united stance against any form of aggression.",
+          "Aggressive": "It's critical that we take strong action to ensure that our allies stand with us against Russian aggression."
+        }
+      },
+      "Closing Statements": {
+        "Economy": {
+          "Diplomatic": "We need to invest in education and infrastructure to build a stronger economy for future generations, because our children deserve the best.",
+          "Aggressive": "We will close tax loopholes that benefit the wealthy and use that money to create jobs and support the middle class, because it's time for real change."
+        },
+        "Healthcare": {
+          "Diplomatic": "We need to build on the Affordable Care Act and continue to improve access to quality healthcare, because every life matters.",
+          "Aggressive": "We will fight to lower prescription drug prices and hold Big Pharma accountable, because enough is enough."
+        },
+        "Ukraine-Russia Conflict": {
+          "Diplomatic": "We need to support Ukraine and work with our allies to ensure peace and stability, because together we are stronger.",
+          "Aggressive": "We will take a strong stance against Russian aggression and provide Ukraine with necessary support, because freedom must prevail."
+        },
+        "Climate Change": {
+          "Diplomatic": "We must take urgent action to reduce greenhouse gas emissions and protect our environment, because our children deserve a livable planet.",
+          "Aggressive": "It's critical that we take strong action to combat climate change and reduce our carbon footprint, because there's no planet B."
+        }
+      },
+      "Closing Personal Statement": "With my experience and dedication, I am ready to lead this nation forward. Let's make history together and achieve real progress."
+    },
+    "Joe Biden": {
+      "Economy": {
+        "Question 1": {
+          "Diplomatic": "My administration will focus on a strong partnership between the public and private sectors to create new jobs and reduce the unemployment rate.",
+          "Neutral": "We plan to invest in key industries while taking steps to improve access to education and training.",
+          "Aggressive": "I will ensure that companies outsourcing jobs are held accountable while supporting programs that create American jobs."
+        },
+        "Question 2": {
+          "Diplomatic": "We must create a fair and just economy that benefits all Americans, not just the wealthy.",
+          "Neutral": "My plan will ensure that we take steps to strengthen the middle class and reduce income inequality.",
+          "Aggressive": "It's time for the rich to pay their fair share, and we must seriously address inequality in our country."
+        },
+        "Question 3": {
+          "Diplomatic": "My administration will ensure that we pursue strong economic policies to control inflation and reduce the cost of living.",
+          "Neutral": "We must take steps to combat inflation and reduce the cost of living for all Americans.",
+          "Aggressive": "The current inflation is unacceptable. We will do everything in our power to lower costs and stabilize the economy."
+        }
+      },
+      "Healthcare": {
+        "Question 1": {
+          "Diplomatic": "My administration will work to improve the healthcare system by expanding coverage and reducing costs for all Americans.",
+          "Neutral": "We need to take steps to lower the price of healthcare and ensure everyone can afford the care they need.",
+          "Aggressive": "The high cost of healthcare is unacceptable. We will take bold action to bring those costs down."
+        },
+        "Question 2": {
+          "Diplomatic": "My administration will work to make prescription drugs more affordable for all Americans.",
+          "Neutral": "We need to take steps to lower drug prices and ensure everyone can access the medications they need.",
+          "Aggressive": "The current prices of prescription drugs are unacceptable. We will take bold action to reduce these costs."
+        },
+        "Question 3": {
+          "Diplomatic": "My administration will work to ensure no one faces financial ruin due to medical expenses.",
+          "Neutral": "We need to take steps to make healthcare more affordable and protect families from financial hardship.",
+          "Aggressive": "The high cost of medical expenses is unacceptable. We will take bold action to ensure no one goes bankrupt due to healthcare costs."
+        }
+      },
+      "Climate Change": {
+        "Question 1": {
+          "Diplomatic": "My administration will work to reduce greenhouse gas emissions and meet our international climate commitments.",
+          "Neutral": "We need to take steps to cut emissions and transition to clean energy sources.",
+          "Aggressive": "The time for half-measures is over. We need to take bold action to combat climate change and reduce emissions."
+        },
+        "Question 2": {
+          "Diplomatic": "My administration will support the growth of the renewable energy sector and ensure that it creates jobs for American workers.",
+          "Neutral": "We need to take steps to promote renewable energy projects that create jobs and boost our economy.",
+          "Aggressive": "The transition to renewable energy is essential. We will take bold action to ensure it creates millions of jobs for American workers."
+        },
+        "Question 3": {
+          "Diplomatic": "My administration will work to reduce pollution and protect our natural resources.",
+          "Neutral": "We need to take steps to cut pollution and promote the conservation of our natural resources.",
+          "Aggressive": "The time for half-measures is over. We need to take bold action to combat pollution and protect our environment."
+        }
+      },
+      "Ukraine-Russia Conflict": {
+        "Question 1": {
+          "Diplomatic": "My administration will support Ukraine and work with our allies to ensure stability and peace in the region.",
+          "Neutral": "We need to provide the necessary support to Ukraine while seeking a peaceful resolution to the conflict.",
+          "Aggressive": "The United States must stand firmly against Russian aggression and provide Ukraine with the support it needs to defend itself."
+        },
+        "Question 2": {
+          "Diplomatic": "My administration will work to provide humanitarian aid to those affected by the conflict and support international relief efforts.",
+          "Neutral": "We need to deliver humanitarian aid to Ukraine and assist those in need.",
+          "Aggressive": "The United States must take strong action to address the humanitarian crisis and hold Russia accountable for its actions."
+        },
+        "Question 3": {
+          "Diplomatic": "My administration will work closely with our allies to ensure a coordinated and united response to Russian aggression.",
+          "Neutral": "We need to strengthen our alliances and ensure a strong, united stance against any form of aggression.",
+          "Aggressive": "The United States must take strong action to ensure that our allies stand with us against Russian aggression."
+        }
+      },
+      "Closing Statements": {
+        "Economy": {
+          "Diplomatic": "We need to create a fair and inclusive economy that benefits all Americans, because unity is our strength.",
+          "Aggressive": "We will hold corporations accountable and ensure they contribute to the common good, because it's time for accountability."
+        },
+        "Healthcare": {
+          "Diplomatic": "We need to improve our healthcare system by expanding coverage and reducing costs, because health is wealth.",
+          "Aggressive": "We will take bold action to lower healthcare costs and fight for Medicare for All, because our people deserve better."
+        },
+        "Ukraine-Russia Conflict": {
+          "Diplomatic": "My administration will support Ukraine and work with our allies to ensure peace and stability, because collaboration is crucial.",
+          "Aggressive": "We will stand firmly against Russian aggression and ensure Ukraine has the support it needs, because we must uphold international law."
+        },
+        "Climate Change": {
+          "Diplomatic": "My administration will work to reduce greenhouse gas emissions and meet our climate commitments, because our planet's health is crucial.",
+          "Aggressive": "The time for half-measures is over. We need to take bold action to combat climate change and protect our environment, because the stakes are too high."
+        }
+      },
+      "Closing Personal Statement": "Our country needs steady leadership and a vision for the future. Join me, and let's move America forward with decency and integrity."
+    }
+  }
+}
